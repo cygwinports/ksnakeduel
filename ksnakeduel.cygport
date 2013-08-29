@@ -1,0 +1,9 @@
+inherit kde4
+
+NAME="ksnakeduel"
+VERSION=4.10.5
+RELEASE=1
+CATEGORY="Games"
+SUMMARY="KDE Snake games"
+DESCRIPTION="Part of the KDE games suite"
+OBSOLETES="ktron"
